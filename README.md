@@ -6,7 +6,7 @@ On my profile, you'll find a selection of projects and repositories that showcas
 <br><br>
 I am always looking for new opportunities to apply my skills and learn from others, so please feel free to connect with me or browse my projects to learn more about my work. Thank you for visiting my profile, and I hope to work with you soon!
 <br><br>
-- 🔭 I’m currently working on finding full-time roles in Data Analysis/ Business Intelligence Analysis
+- 🔭 Currently, I'm finding full-time roles in Data Analysis/ Business Intelligence Analysis
 - 📫 How to reach me: aniketd.kute@gmail.com
 - ⚡ Fun fact: If ever, in the near future, I plan to change my career; I would like to become an ancient alien researcher.
 
